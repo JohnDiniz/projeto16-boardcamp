@@ -9,7 +9,7 @@
     "dev": "nodemon ./src/app.js"
   },
   "keywords": [],
-  "author": "Naomi Gonçalves (setsukanaomi)",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.0.1"
